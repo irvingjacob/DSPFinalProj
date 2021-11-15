@@ -1,0 +1,356 @@
+Year,Prscrbr_Geo_Lvl,Prscrbr_Geo_Cd,Prscrbr_Geo_Desc,RUCA_Cd,Breakout_Type,Breakout,Tot_Prscrbrs,Tot_Opioid_Prscrbrs,Tot_Opioid_Clms,Tot_Clms,Opioid_Prscrbng_Rate,Opioid_Prscrbng_Rate_5Y_Chg,Opioid_Prscrbng_Rate_1Y_Chg,LA_Tot_Opioid_Clms,LA_Opioid_Prscrbng_Rate,LA_Opioid_Prscrbng_Rate_5Y_Chg,LA_Opioid_Prscrbng_Rate_1Y_Chg
+2019,National,,National,,Totals,Overall,1239380,803549,66138200,1501140466,4.41,-1.32,-0.27,7290510,11.02,-1.73,-0.77
+2019,National,,National,,Rural/Urban,Rural,134064,95576,11754049,260225758,4.52,-1.48,-0.29,1211808,10.31,-1.92,-0.73
+2019,National,,National,,Rural/Urban,Urban,1103989,707114,54351962,1240046489,4.38,-1.29,-0.28,6735793,12.39,-1.41,-0.68
+2019,State,1,Alabama,,Totals,Overall,15575,9739,1814583,28008206,6.48,-1.4,-0.42,138456,7.63,-2.13,-0.73
+2019,State,2,Alaska,,Totals,Overall,2847,1935,80311,1639104,4.9,-2.01,-0.9,13005,16.19,-3.73,-2.42
+2019,State,4,Arizona,,Totals,Overall,25876,16578,1359955,25693764,5.29,-1.79,-0.33,184250,13.55,-2.58,-1.25
+2019,State,5,Arkansas,,Totals,Overall,9700,7258,998319,17894303,5.58,-1.08,-0.32,76135,7.63,-1.69,-0.93
+2019,State,6,California,,Totals,Overall,129325,80941,5888034,138971644,4.24,-1.29,-0.35,630832,10.71,-1.32,-0.55
+2019,State,8,Colorado,,Totals,Overall,21262,15273,986823,17403100,5.67,-1.81,-0.45,130781,13.25,-2.56,-0.95
+2019,State,9,Connecticut,,Totals,Overall,18060,10751,578122,16874265,3.43,-1.17,-0.13,83186,14.39,-2.38,-0.53
+2019,State,10,Delaware,,Totals,Overall,3759,2535,181569,4294537,4.23,-2.38,-0.71,31988,17.62,-2.04,-1.66
+2019,State,11,District of Columbia,,Totals,Overall,4957,3070,75262,2071246,3.63,-0.96,-0.18,7822,10.39,-0.53,0.09
+2019,State,12,Florida,,Totals,Overall,78483,45389,4865839,108893059,4.47,-0.84,-0.36,633156,13.01,-0.25,-0.75
+2019,State,13,Georgia,,Totals,Overall,32018,21486,2528554,47614255,5.31,-1.05,-0.19,254493,10.06,-0.27,-0.39
+2019,State,15,Hawaii,,Totals,Overall,4404,2761,138596,3970008,3.49,-0.41,-0.12,17218,12.42,-2.02,-0.47
+2019,State,16,Idaho,,Totals,Overall,6189,4353,410737,6763726,6.07,-1.71,-0.43,57662,14.04,-2.73,-1.15
+2019,State,17,Illinois,,Totals,Overall,48887,32614,2077113,51934062,4,-0.95,-0.21,170399,8.2,-2.39,-0.96
+2019,State,18,Indiana,,Totals,Overall,23218,16277,1779078,34109580,5.22,-1.46,-0.16,174024,9.78,-3.33,-0.93
+2019,State,19,Iowa,,Totals,Overall,11254,7831,634671,16836835,3.77,-1.11,-0.21,74598,11.75,-2.28,-1.05
+2019,State,20,Kansas,,Totals,Overall,10351,7486,729549,14088368,5.18,-1.22,-0.25,88960,12.19,-2.23,-1.2
+2019,State,21,Kentucky,,Totals,Overall,16892,10316,1514899,29583406,5.12,-0.9,-0.1,97148,6.41,-2.57,-0.77
+2019,State,22,Louisiana,,Totals,Overall,18380,12659,1367767,26579391,5.15,-1.12,-0.2,100542,7.35,-0.85,-0.58
+2019,State,23,Maine,,Totals,Overall,6404,4145,305575,6950146,4.4,-1.87,-0.18,49864,16.32,-1.92,-0.75
+2019,State,24,Maryland,,Totals,Overall,24498,15725,933513,19594479,4.76,-1.45,-0.22,148648,15.92,-1.03,-0.81
+2019,State,25,Massachusetts,,Totals,Overall,36988,23028,1137441,34914678,3.26,-1.23,-0.06,163389,14.36,-1.09,-0.68
+2019,State,26,Michigan,,Totals,Overall,43309,30583,2595711,50868312,5.1,-2.35,-0.45,283599,10.93,-1.53,-0.83
+2019,State,27,Minnesota,,Totals,Overall,23498,16098,878126,23344567,3.76,-1.64,-0.28,104798,11.93,-3.05,-0.97
+2019,State,28,Mississippi,,Totals,Overall,9783,7085,804302,17709736,4.54,-1.73,-0.38,58137,7.23,-1.04,-0.5
+2019,State,29,Missouri,,Totals,Overall,22877,14228,1747630,35871468,4.87,-1.22,-0.2,176505,10.1,-2.19,-1.3
+2019,State,30,Montana,,Totals,Overall,4457,3164,239927,4462635,5.38,-1.43,-0.35,32633,13.6,-3.84,-0.99
+2019,State,31,Nebraska,,Totals,Overall,7520,5312,392368,9691854,4.05,-1.03,-0.24,52156,13.29,-0.75,-0.5
+2019,State,32,Nevada,,Totals,Overall,8716,5842,588165,9825343,5.99,-2.05,-0.28,72784,12.37,-2.38,-1.34
+2019,State,33,New Hampshire,,Totals,Overall,6351,4136,238559,5966688,4,-2.13,-0.3,44184,18.52,-2.6,-1.38
+2019,State,34,New Jersey,,Totals,Overall,33056,20211,1211676,37460894,3.23,-1.13,-0.18,172303,14.22,-2.26,-1.17
+2019,State,35,New Mexico,,Totals,Overall,7943,5300,377411,7606036,4.96,-1.66,-0.37,35061,9.29,-3.34,-0.96
+2019,State,36,New York,,Totals,Overall,96669,51745,2530731,100964938,2.51,-0.58,-0.14,321027,12.69,-2.3,-0.79
+2019,State,37,North Carolina,,Totals,Overall,38136,27598,2722300,53081182,5.13,-1.2,-0.13,327398,12.03,-1.41,-0.57
+2019,State,38,North Dakota,,Totals,Overall,3116,2146,129637,3826136,3.39,-1.32,-0.19,16694,12.88,-4.42,-1.18
+2019,State,39,Ohio,,Totals,Overall,47970,32389,2508611,63695561,3.94,-1.75,-0.27,231140,9.21,-1.67,-0.69
+2019,State,40,Oklahoma,,Totals,Overall,12614,8847,1073514,17897973,6,-1.62,-0.68,129608,12.07,-1.59,-1.06
+2019,State,41,Oregon,,Totals,Overall,17943,12375,981883,17333654,5.66,-1.92,-0.37,122153,12.44,-5.26,-0.92
+2019,State,42,Pennsylvania,,Totals,Overall,59855,36391,2777305,75524535,3.68,-1.4,-0.28,389035,14.01,-1.52,-0.76
+2019,State,44,Rhode Island,,Totals,Overall,5195,3305,170718,5944591,2.87,-1.11,-0.12,17989,10.54,-1.33,-0.18
+2019,State,45,South Carolina,,Totals,Overall,18528,12386,1293395,26700524,4.84,-1.6,-0.36,125500,9.7,0.03,-0.43
+2019,State,46,South Dakota,,Totals,Overall,3581,2495,176907,4360946,4.06,-1.23,-0.31,25335,14.32,-2.47,-1.34
+2019,State,47,Tennessee,,Totals,Overall,26130,18574,2278745,40063673,5.69,-1.68,-0.48,226305,9.93,-4.05,-0.94
+2019,State,48,Texas,,Totals,Overall,79089,54983,4691289,97384038,4.82,-1.22,-0.24,366016,7.8,-0.52,-0.59
+2019,State,49,Utah,,Totals,Overall,9348,6846,518490,8089284,6.41,-1.49,-0.39,69445,13.39,-1.18,-0.48
+2019,State,50,Vermont,,Totals,Overall,2776,1744,109415,2685316,4.07,-1.91,-0.28,22034,20.14,-2.04,-1.07
+2019,State,51,Virginia,,Totals,Overall,28336,19591,1314742,31176498,4.22,-1.7,-0.19,149169,11.35,0.01,-0.34
+2019,State,53,Washington,,Totals,Overall,29869,19722,1350854,25182239,5.36,-1.81,-0.54,181545,13.44,-3.71,-1
+2019,State,54,West Virginia,,Totals,Overall,7799,4881,494317,11934752,4.14,-2.26,-0.31,37203,7.53,-1.41,-0.15
+2019,State,55,Wisconsin,,Totals,Overall,22753,15928,1182328,26964843,4.38,-1.63,-0.29,156183,13.21,-4.63,-1.26
+2019,State,56,Wyoming,,Totals,Overall,2038,1383,91554,1854386,4.94,-1.31,-0.35,11962,13.07,-2.8,-1.5
+2019,State,60,American Samoa,,Totals,Overall,2,0,0,25,0,-3.27,-11.67,0,,,
+2019,State,66,Guam,,Totals,Overall,163,106,1246,75673,1.65,-0.42,-0.07,101,8.11,-1.33,-2.78
+2019,State,69,Northern Mariana Islands,,Totals,Overall,30,15,120,9890,1.21,-1.7,-0.52,0,0,-6.14,
+2019,State,72,Puerto Rico,,Totals,Overall,10440,5891,277937,28701504,0.97,-1.31,-0.23,5878,2.11,0.48,0.06
+2019,State,78,Virgin Islands,,Totals,Overall,163,99,1977,198610,1,-0.82,0.08,74,3.74,-0.79,-3.51
+2019,State,1,Alabama,,Rural/Urban,Rural,2177,1376,392586,6683686,5.87,-1.59,-0.58,22046.5,5.62,-1.93,-0.97
+2019,State,2,Alaska,,Rural/Urban,Rural,946,670,30615,580471,5.27,-2.48,-1.34,6094,19.91,-1.48,-3.88
+2019,State,4,Arizona,,Rural/Urban,Rural,1897,1303,144690,2388501,6.06,-1.87,-0.65,19797,13.68,-2.41,-1.97
+2019,State,5,Arkansas,,Rural/Urban,Rural,2540,2032,333552,6838950,4.88,-1.29,-0.29,19391,5.81,-1.43,-0.42
+2019,State,6,California,,Rural/Urban,Rural,4594,3208,372161,6131128,6.07,-2.24,-0.66,48818.5,13.12,-2.47,-0.69
+2019,State,8,Colorado,,Rural/Urban,Rural,2290,1755,122576,2333587,5.25,-1.88,-0.34,16163,13.19,-3.18,-0.55
+2019,State,9,Connecticut,,Rural/Urban,Rural,415,251,17373,520877,3.34,-1.54,-0.16,2125,12.23,-3.67,-1.45
+2019,State,10,Delaware,,Rural/Urban,Rural,530,375,42652,996974,4.28,-2.63,-0.49,7671,17.99,-4.2,-2.58
+2019,State,11,District of Columbia,,Rural/Urban,Rural,0,0,0,0,,,,0,,,
+2019,State,12,Florida,,Rural/Urban,Rural,1215,741,108359,2278772,4.76,-1.3,-0.36,8999.5,8.31,-1.66,-0.96
+2019,State,13,Georgia,,Rural/Urban,Rural,3778,2770,545816,11103269,4.92,-0.94,-0.06,44989.5,8.24,0.02,-0.2
+2019,State,15,Hawaii,,Rural/Urban,Rural,792,549,43737,879465,4.97,-0.63,-0.2,6498.5,14.86,-2.88,-1.34
+2019,State,16,Idaho,,Rural/Urban,Rural,1447,1032,104649,1903189,5.5,-1.91,-0.54,14820.5,14.16,-3.97,-1.47
+2019,State,17,Illinois,,Rural/Urban,Rural,3835,2876,347647,8421230,4.13,-0.88,-0.21,32709,9.41,-2.58,-0.96
+2019,State,18,Indiana,,Rural/Urban,Rural,3620,2617,363155,7719188,4.7,-1.47,-0.13,32372,8.91,-3.44,-1.16
+2019,State,19,Iowa,,Rural/Urban,Rural,3403,2410,261642,7194154,3.64,-0.98,-0.2,36762,14.05,-1.35,-1.11
+2019,State,20,Kansas,,Rural/Urban,Rural,2897,2254,277785,5590587,4.97,-1.19,-0.21,40024.5,14.41,-0.86,-0.81
+2019,State,21,Kentucky,,Rural/Urban,Rural,5776,3624,682023,14658968,4.65,-1.07,-0.16,34216,5.02,-1.59,-0.36
+2019,State,22,Louisiana,,Rural/Urban,Rural,1530,1145,163413,4185612,3.9,-1.22,-0.12,9076,5.55,0.55,0.24
+2019,State,23,Maine,,Rural/Urban,Rural,2398,1584,160642,3358669,4.78,-1.35,-0.18,31872,19.84,0.89,-0.73
+2019,State,24,Maryland,,Rural/Urban,Rural,642,441,41900,1040875,4.03,-1.42,-0.1,6096.5,14.55,0.65,0.17
+2019,State,25,Massachusetts,,Rural/Urban,Rural,576,386,27594,823957,3.35,-1.41,-0.07,4907.5,17.78,0.18,0.18
+2019,State,26,Michigan,,Rural/Urban,Rural,5222,3710,437184,9163921,4.77,-2.71,-0.66,60903,13.93,-2.26,-1.13
+2019,State,27,Minnesota,,Rural/Urban,Rural,4003,3022,242027,7112239,3.4,-1.68,-0.3,31231.5,12.9,-3.84,-0.92
+2019,State,28,Mississippi,,Rural/Urban,Rural,4216,3138,438606,9962101,4.4,-1.64,-0.32,31097.5,7.09,-0.18,-0.34
+2019,State,29,Missouri,,Rural/Urban,Rural,3829,2375,495809,10279875,4.82,-1.23,-0.22,49766,10.04,-1.61,-0.87
+2019,State,30,Montana,,Rural/Urban,Rural,2361,1700,134649,2491023,5.41,-1.64,-0.33,20314,15.09,-3.15,-0.86
+2019,State,31,Nebraska,,Rural/Urban,Rural,2031,1546,163593,4108395,3.98,-0.89,-0.23,26942,16.47,-0.16,-0.39
+2019,State,32,Nevada,,Rural/Urban,Rural,484,368,31904,651149,4.9,-2.7,-0.47,3273.5,10.26,-1.44,-0.12
+2019,State,33,New Hampshire,,Rural/Urban,Rural,2956,1963,99297,2710614,3.66,-2.26,-0.22,18158,18.29,-3.27,-1.1
+2019,State,34,New Jersey,,Rural/Urban,Rural,273,164,22672,446385,5.08,-0.12,-0.47,4361.5,19.24,-0.59,-1.61
+2019,State,35,New Mexico,,Rural/Urban,Rural,1759,1236,111722,2291529,4.88,-1.5,-0.41,10922.5,9.78,-2.51,-0.93
+2019,State,36,New York,,Rural/Urban,Rural,4810,3159,303987,8597542,3.54,-0.6,-0.09,41759.5,13.74,-2.75,-1.12
+2019,State,37,North Carolina,,Rural/Urban,Rural,6114,4669,654077,13566966,4.82,-1.22,-0.05,60878.5,9.31,-2.33,-0.5
+2019,State,38,North Dakota,,Rural/Urban,Rural,1021,742,50756,1655740,3.07,-0.89,-0.11,7083,13.96,-3.61,-1
+2019,State,39,Ohio,,Rural/Urban,Rural,6604,4594,482284,13556145,3.56,-1.82,-0.16,43585,9.04,-1.68,-0.52
+2019,State,40,Oklahoma,,Rural/Urban,Rural,3600,2644,374643,7086437,5.29,-1.62,-0.61,34401,9.18,-1.43,-0.6
+2019,State,41,Oregon,,Rural/Urban,Rural,3252,2319,215951,4020508,5.37,-2.23,-0.39,25408.5,11.77,-4.91,-0.77
+2019,State,42,Pennsylvania,,Rural/Urban,Rural,4671,3136,369441,10263199,3.6,-1.32,-0.22,55561.5,15.04,-1.39,-0.58
+2019,State,44,Rhode Island,,Rural/Urban,Rural,0,0,0,0,,,,0,,,
+2019,State,45,South Carolina,,Rural/Urban,Rural,2220,1529,219391,4940562,4.44,-1.65,-0.35,13277,6.05,-1.24,-0.6
+2019,State,46,South Dakota,,Rural/Urban,Rural,1331,1004,79189,2214223,3.58,-1.33,-0.45,12428,15.69,-3.21,-1.96
+2019,State,47,Tennessee,,Rural/Urban,Rural,4367,3335,615397,11123850,5.53,-1.82,-0.67,50311,8.18,-4.43,-1.4
+2019,State,48,Texas,,Rural/Urban,Rural,6626,4977,578487,13776451,4.2,-1.4,-0.28,38062.5,6.58,-0.56,-0.71
+2019,State,49,Utah,,Rural/Urban,Rural,835,679,72524,1047693,6.92,-1.45,-0.48,10288.5,14.19,-1.93,-0.53
+2019,State,50,Vermont,,Rural/Urban,Rural,1507,987,71193,1806865,3.94,-1.84,-0.08,14603,20.51,-2.15,-0.88
+2019,State,51,Virginia,,Rural/Urban,Rural,2565,1948,254284,6323593,4.02,-1.75,-0.1,20924,8.23,-0.84,-0.1
+2019,State,53,Washington,,Rural/Urban,Rural,2354,1672,153374,2694454,5.69,-1.84,-0.54,20558,13.4,-3.46,-0.81
+2019,State,54,West Virginia,,Rural/Urban,Rural,1807,1170,147221,3793701,3.88,-1.89,-0.27,12086,8.21,0.24,0.37
+2019,State,55,Wisconsin,,Rural/Urban,Rural,4540,3436,285037,7180946,3.97,-1.69,-0.31,39876,13.99,-4.39,-0.73
+2019,State,56,Wyoming,,Rural/Urban,Rural,1269,868,57774,1133848,5.1,-1.3,-0.32,8166,14.13,-3.11,-2.11
+2019,State,60,American Samoa,,Rural/Urban,Rural,0,0,0,0,,,,0,,,
+2019,State,66,Guam,,Rural/Urban,Rural,0,0,0,0,,,,0,,,
+2019,State,69,Northern Mariana Islands,,Rural/Urban,Rural,0,0,0,0,,,,0,,,
+2019,State,72,Puerto Rico,,Rural/Urban,Rural,139,87,7009,593695,1.18,-1.52,-0.27,132,1.88,-0.03,0.24
+2019,State,78,Virgin Islands,,Rural/Urban,Rural,0,0,0,0,,,,0,,,
+2019,State,1,Alabama,,Rural/Urban,Urban,12795,7969,1403607,21014662,6.68,-1.31,-0.36,120305.5,8.57,-2.24,-0.67
+2019,State,2,Alaska,,Rural/Urban,Urban,1901,1265,49696,1058633,4.69,-1.71,-0.68,8946.5,18,-3.3,-1.41
+2019,State,4,Arizona,,Rural/Urban,Urban,23977,15274,1215264,23305200,5.21,-1.77,-0.29,177170.5,14.58,-2.35,-1.1
+2019,State,5,Arkansas,,Rural/Urban,Urban,7159,5225,664724,11053720,6.01,-0.99,-0.35,61963,9.32,-1.69,-0.96
+2019,State,6,California,,Rural/Urban,Urban,124643,77678,5514578,132799975,4.15,-1.23,-0.34,653289.5,11.85,-0.87,-0.4
+2019,State,8,Colorado,,Rural/Urban,Urban,18972,13518,864247,15069513,5.74,-1.79,-0.46,127043,14.7,-2.09,-0.97
+2019,State,9,Connecticut,,Rural/Urban,Urban,17645,10500,560749,16353388,3.43,-1.15,-0.13,90721,16.18,-2.22,-0.45
+2019,State,10,Delaware,,Rural/Urban,Urban,3229,2160,138917,3297563,4.21,-2.3,-0.78,26336,18.96,-0.91,-1.19
+2019,State,11,District of Columbia,,Rural/Urban,Urban,4956,3069,75226,2071123,3.63,-0.96,-0.18,10340,13.75,0.66,0.59
+2019,State,12,Florida,,Rural/Urban,Urban,77265,44646,4756989,106595398,4.46,-0.83,-0.36,656905.5,13.81,-0.21,-0.69
+2019,State,13,Georgia,,Rural/Urban,Urban,28238,18714,1982736,36508675,5.43,-1.09,-0.23,224660.5,11.33,-0.27,-0.42
+2019,State,15,Hawaii,,Rural/Urban,Urban,3612,2212,94859,3090543,3.07,-0.34,-0.1,13294.5,14.02,-1.13,0.11
+2019,State,16,Idaho,,Rural/Urban,Urban,4742,3321,306088,4860537,6.3,-1.64,-0.38,46369.5,15.15,-1.86,-0.78
+2019,State,17,Illinois,,Rural/Urban,Urban,45045,29733,1729306,43507673,3.97,-0.96,-0.21,164903.5,9.54,-2.12,-0.89
+2019,State,18,Indiana,,Rural/Urban,Urban,19595,13658,1415899,26390131,5.37,-1.47,-0.18,154539,10.91,-3.11,-0.79
+2019,State,19,Iowa,,Rural/Urban,Urban,7851,5421,373029,9642681,3.87,-1.24,-0.21,44111,11.83,-2.47,-1.04
+2019,State,20,Kansas,,Rural/Urban,Urban,7454,5232,451764,8497781,5.32,-1.27,-0.27,54915.5,12.16,-2.66,-1.33
+2019,State,21,Kentucky,,Rural/Urban,Urban,11110,6687,832475,14920103,5.58,-0.76,-0.04,69560.5,8.36,-3.61,-1.08
+2019,State,22,Louisiana,,Rural/Urban,Urban,16735,11419,1203345,22370775,5.38,-1.12,-0.22,99697,8.28,-0.96,-0.64
+2019,State,23,Maine,,Rural/Urban,Urban,4006,2561,144933,3591477,4.04,-2.37,-0.18,21109,14.56,-4.3,-0.6
+2019,State,24,Maryland,,Rural/Urban,Urban,23856,15284,891613,18553604,4.81,-1.45,-0.22,157597.5,17.68,-0.69,-0.5
+2019,State,25,Massachusetts,,Rural/Urban,Urban,36411,22641,1109837,34090639,3.26,-1.22,-0.06,179056.5,16.13,-0.68,-0.69
+2019,State,26,Michigan,,Rural/Urban,Urban,38086,26873,2158527,41704379,5.18,-2.26,-0.39,245747.5,11.38,-1,-0.7
+2019,State,27,Minnesota,,Rural/Urban,Urban,19453,13044,633571,16159371,3.92,-1.64,-0.27,86249,13.61,-2.11,-0.84
+2019,State,28,Mississippi,,Rural/Urban,Urban,5562,3943,365689,7742415,4.72,-1.9,-0.48,32006.5,8.75,-1.62,-0.39
+2019,State,29,Missouri,,Rural/Urban,Urban,19048,11853,1251821,25591593,4.89,-1.21,-0.19,137548.5,10.99,-2.34,-1.4
+2019,State,30,Montana,,Rural/Urban,Urban,2096,1464,105278,1971612,5.34,-1.18,-0.37,14840.5,14.1,-3.94,-0.93
+2019,State,31,Nebraska,,Rural/Urban,Urban,5489,3766,228775,5583459,4.1,-1.15,-0.25,29616.5,12.95,-0.64,-0.35
+2019,State,32,Nevada,,Rural/Urban,Urban,8229,5473,556256,9174157,6.06,-2.01,-0.27,74737,13.44,-2.15,-1.25
+2019,State,33,New Hampshire,,Rural/Urban,Urban,3393,2171,139221,3255631,4.28,-2.02,-0.37,29530.5,21.21,-1.3,-1.28
+2019,State,34,New Jersey,,Rural/Urban,Urban,32780,20047,1189004,37013818,3.21,-1.14,-0.17,189812.5,15.96,-1.75,-0.91
+2019,State,35,New Mexico,,Rural/Urban,Urban,6183,4063,265672,5314406,5,-1.74,-0.35,29052,10.94,-3.04,-0.62
+2019,State,36,New York,,Rural/Urban,Urban,91854,48584,2226742,92366748,2.41,-0.57,-0.15,327015,14.69,-2.06,-0.63
+2019,State,37,North Carolina,,Rural/Urban,Urban,32016,22927,2068212,39512377,5.23,-1.21,-0.16,286447.5,13.85,-0.9,-0.54
+2019,State,38,North Dakota,,Rural/Urban,Urban,2095,1404,78881,2170396,3.63,-1.77,-0.25,11144,14.13,-4.44,-1.42
+2019,State,39,Ohio,,Rural/Urban,Urban,41347,27787,2023674,50103515,4.04,-1.74,-0.3,212597,10.51,-1.23,-0.62
+2019,State,40,Oklahoma,,Rural/Urban,Urban,9011,6201,698869,10811214,6.46,-1.66,-0.75,102265,14.63,-1.52,-1.09
+2019,State,41,Oregon,,Rural/Urban,Urban,14691,10056,765932,13313146,5.75,-1.82,-0.36,106620.5,13.92,-4.97,-0.89
+2019,State,42,Pennsylvania,,Rural/Urban,Urban,55181,33254,2407855,65256923,3.69,-1.42,-0.29,364653.5,15.14,-1.19,-0.62
+2019,State,44,Rhode Island,,Rural/Urban,Urban,5195,3305,170718,5944591,2.87,-1.11,-0.12,20673.5,12.11,-0.67,0
+2019,State,45,South Carolina,,Rural/Urban,Urban,16308,10857,1074004,21759962,4.94,-1.6,-0.36,121339.5,11.3,0.5,-0.3
+2019,State,46,South Dakota,,Rural/Urban,Urban,2237,1481,96893,2143002,4.52,-1.19,-0.19,14878,15.36,-0.85,-0.45
+2019,State,47,Tennessee,,Rural/Urban,Urban,21761,15239,1663348,28939228,5.75,-1.62,-0.41,188287,11.32,-3.77,-0.79
+2019,State,48,Texas,,Rural/Urban,Urban,72458,50004,4112786,83607322,4.92,-1.2,-0.24,376701,9.16,-0.35,-0.53
+2019,State,49,Utah,,Rural/Urban,Urban,8513,6167,445966,7041591,6.33,-1.5,-0.38,64905.5,14.55,-0.73,-0.53
+2019,State,50,Vermont,,Rural/Urban,Urban,1258,755,38190,871043,4.38,-2.11,-0.67,9308,24.37,0.81,-0.19
+2019,State,51,Virginia,,Rural/Urban,Urban,25765,17640,1060361,24850894,4.27,-1.69,-0.21,146013,13.77,0.77,-0.16
+2019,State,53,Washington,,Rural/Urban,Urban,27515,18050,1197480,22487785,5.33,-1.79,-0.53,177947.5,14.86,-3.37,-0.84
+2019,State,54,West Virginia,,Rural/Urban,Urban,5991,3711,347096,8141014,4.26,-2.45,-0.33,28815,8.3,-1.71,-0.25
+2019,State,55,Wisconsin,,Rural/Urban,Urban,18207,12489,896552,19742756,4.54,-1.61,-0.28,128783.5,14.36,-4.32,-1.31
+2019,State,56,Wyoming,,Rural/Urban,Urban,769,515,33780,720538,4.69,-1.32,-0.39,4964.5,14.7,-1.62,-1.23
+2019,State,60,American Samoa,,Rural/Urban,Urban,0,0,0,0,,,,0,,,
+2019,State,66,Guam,,Rural/Urban,Urban,0,0,0,0,,,,0,,,
+2019,State,69,Northern Mariana Islands,,Rural/Urban,Urban,0,0,0,0,,,,0,,,
+2019,State,72,Puerto Rico,,Rural/Urban,Urban,10301,5804,270928,28107809,0.96,-1.31,-0.23,10459.5,3.86,1.32,0.46
+2019,State,78,Virgin Islands,,Rural/Urban,Urban,0,0,0,0,,,,0,,,
+2019,County,1001,Alabama:Autauga,,Totals,Overall,90,62,23979,221640,10.82,1.07,-0.68,3508,14.63,3.56,-0.34
+2019,County,1003,Alabama:Baldwin,,Totals,Overall,565,350,62889,989902,6.35,-2.7,-0.34,3902,6.2,-6.19,-1.03
+2019,County,1005,Alabama:Barbour,,Totals,Overall,34,20,2465,97745,2.52,-3.22,-0.41,129,5.23,-0.49,0.68
+2019,County,1007,Alabama:Bibb,,Totals,Overall,74,42,2844,87440,3.25,-1.58,-0.48,256,9,-1.39,-5.34
+2019,County,1009,Alabama:Blount,,Totals,Overall,36,25,6333,171481,3.69,-2.44,-1.2,213,3.36,-1.85,0.08
+2019,County,1011,Alabama:Bullock,,Totals,Overall,8,5,1438,32217,4.46,0.54,-0.48,34,2.36,-0.67,-1.55
+2019,County,1013,Alabama:Butler,,Totals,Overall,37,20,2460,86841,2.83,-5.74,-0.19,86,3.5,-1.21,-0.75
+2019,County,1015,Alabama:Calhoun,,Totals,Overall,295,195,43686,668472,6.54,-1.6,-0.26,3233,7.4,-2.28,0.26
+2019,County,1017,Alabama:Chambers,,Totals,Overall,35,28,9244,133417,6.93,-0.9,-0.74,1019,11.02,-1.42,-1.28
+2019,County,1019,Alabama:Cherokee,,Totals,Overall,42,24,10884,148044,7.35,-0.71,-0.13,1363,12.52,7.08,-1.99
+2019,County,1021,Alabama:Chilton,,Totals,Overall,48,33,9225,169225,5.45,-1.21,-0.62,149,1.62,-0.54,-0.05
+2019,County,1023,Alabama:Choctaw,,Totals,Overall,12,10,3428,73905,4.64,-2.96,-0.32,88,2.57,-5.77,-2.3
+2019,County,1025,Alabama:Clarke,,Totals,Overall,42,29,8174,157474,5.19,-1.22,-0.75,239,2.92,-1.14,-1.29
+2019,County,1027,Alabama:Clay,,Totals,Overall,15,11,6557,97849,6.7,-1.15,-0.45,628,9.58,-0.49,-1.46
+2019,County,1029,Alabama:Cleburne,,Totals,Overall,3,3,2822,40426,6.98,-1.79,-0.06,167,5.92,-0.66,0.02
+2019,County,1031,Alabama:Coffee,,Totals,Overall,96,70,16390,244516,6.7,-2.01,-0.2,1174,7.16,-0.69,-1.15
+2019,County,1033,Alabama:Colbert,,Totals,Overall,186,125,35227,505417,6.97,-0.3,-0.18,1142,3.24,-1.22,-0.32
+2019,County,1035,Alabama:Conecuh,,Totals,Overall,15,11,9130,109384,8.35,-1.01,-0.71,320,3.5,-1.79,-1.18
+2019,County,1037,Alabama:Coosa,,Totals,Overall,2,1,29,1380,2.1,-2.05,-0.42,0,0,0,0
+2019,County,1039,Alabama:Covington,,Totals,Overall,79,50,16925,267882,6.32,-2.09,-0.76,515,3.04,-2.44,-0.97
+2019,County,1041,Alabama:Crenshaw,,Totals,Overall,15,6,3570,67349,5.3,-1.3,0.17,167,4.68,-1.92,-1.68
+2019,County,1043,Alabama:Cullman,,Totals,Overall,235,152,31332,578040,5.42,-2.28,-1.02,2234,7.13,-4.04,-2.2
+2019,County,1045,Alabama:Dale,,Totals,Overall,46,28,4799,79958,6,-1.33,-0.92,137,2.85,-1.96,0.51
+2019,County,1047,Alabama:Dallas,,Totals,Overall,88,55,11077,265073,4.18,-2.11,-0.12,321,2.9,-11.3,-0.35
+2019,County,1049,Alabama:DeKalb,,Totals,Overall,119,71,21111,344850,6.12,-0.78,-0.17,1614,7.65,1.76,-0.05
+2019,County,1051,Alabama:Elmore,,Totals,Overall,73,51,14787,222773,6.64,-1.46,0.01,431,2.91,-2.56,-0.13
+2019,County,1053,Alabama:Escambia,,Totals,Overall,62,46,13050,190954,6.83,-0.74,-0.51,282,2.16,-2.48,-0.76
+2019,County,1055,Alabama:Etowah,,Totals,Overall,353,226,64076,858314,7.47,-2.01,-0.43,8000,12.49,-6.03,-0.4
+2019,County,1057,Alabama:Fayette,,Totals,Overall,21,13,3297,90201,3.66,-2.87,-0.25,74,2.24,-8.06,-0.64
+2019,County,1059,Alabama:Franklin,,Totals,Overall,52,35,12652,132639,9.54,-1.9,-0.33,294,2.32,-2.4,-0.44
+2019,County,1061,Alabama:Geneva,,Totals,Overall,18,14,4688,90023,5.21,-1.97,-0.64,246,5.25,-0.78,-1.42
+2019,County,1063,Alabama:Greene,,Totals,Overall,6,3,567,21640,2.62,-4.63,-1.04,31,5.47,-3.72,-4.27
+2019,County,1065,Alabama:Hale,,Totals,Overall,15,7,1747,69063,2.53,-6.79,-1.04,49,2.8,-2.24,0.44
+2019,County,1067,Alabama:Henry,,Totals,Overall,15,10,4714,74238,6.35,-1.1,-0.04,179,3.8,0.73,0.32
+2019,County,1069,Alabama:Houston,,Totals,Overall,601,356,75467,1143347,6.6,-0.61,-0.11,5217,6.91,-1.05,-0.14
+2019,County,1071,Alabama:Jackson,,Totals,Overall,86,60,19112,281009,6.8,-1.19,-0.38,532,2.78,-1.55,-1.02
+2019,County,1073,Alabama:Jefferson,,Totals,Overall,4703,2821,347946,5329882,6.53,-0.77,-0.32,30216,8.68,0,-0.9
+2019,County,1075,Alabama:Lamar,,Totals,Overall,14,6,2461,42721,5.76,-3.57,-0.02,30,1.22,0.67,0.44
+2019,County,1077,Alabama:Lauderdale,,Totals,Overall,291,194,28617,645782,4.43,-2.11,-0.73,1338,4.68,-2.01,-0.34
+2019,County,1079,Alabama:Lawrence,,Totals,Overall,19,11,6209,105108,5.91,-1.64,-0.1,331,5.33,-0.76,-0.59
+2019,County,1081,Alabama:Lee,,Totals,Overall,301,192,30385,618785,4.91,-1.08,-0.53,2546,8.38,0.61,-0.13
+2019,County,1083,Alabama:Limestone,,Totals,Overall,140,92,15715,300483,5.23,-0.62,-0.42,701,4.46,0.92,-0.04
+2019,County,1085,Alabama:Lowndes,,Totals,Overall,2,1,791,13360,5.92,-0.61,-0.67,,,,
+2019,County,1087,Alabama:Macon,,Totals,Overall,9,3,299,9076,3.29,-0.52,-1.06,0,0,,
+2019,County,1089,Alabama:Madison,,Totals,Overall,1462,910,138187,1759430,7.85,-1.6,-0.72,10677,7.73,-2.24,-1.37
+2019,County,1091,Alabama:Marengo,,Totals,Overall,25,18,6845,118075,5.8,-0.44,-0.47,316,4.62,-0.7,-1.52
+2019,County,1093,Alabama:Marion,,Totals,Overall,59,34,15842,250114,6.33,-1.81,0,419,2.64,-2.56,-0.92
+2019,County,1095,Alabama:Marshall,,Totals,Overall,227,141,42296,747530,5.66,-1.44,-0.33,2081,4.92,-1.5,-0.25
+2019,County,1097,Alabama:Mobile,,Totals,Overall,1652,1094,197957,2601300,7.61,-1.46,-0.36,12529,6.33,-4.58,-0.46
+2019,County,1099,Alabama:Monroe,,Totals,Overall,26,18,3387,83587,4.05,-1.81,-0.1,154,4.55,-2.41,-1.4
+2019,County,1101,Alabama:Montgomery,,Totals,Overall,963,559,94461,1649955,5.73,-1.1,-0.43,10086,10.68,0.01,-0.78
+2019,County,1103,Alabama:Morgan,,Totals,Overall,319,215,45655,675169,6.76,-2.92,0.01,4066,8.91,-9.49,-0.07
+2019,County,1105,Alabama:Perry,,Totals,Overall,11,5,2338,49379,4.73,-0.27,0.14,274,11.72,-4.71,-3.62
+2019,County,1107,Alabama:Pickens,,Totals,Overall,24,17,5783,112716,5.13,-1.56,-0.88,393,6.8,-2.18,0.72
+2019,County,1109,Alabama:Pike,,Totals,Overall,56,33,5606,138466,4.05,-1.75,-0.06,315,5.62,0.25,-0.39
+2019,County,1111,Alabama:Randolph,,Totals,Overall,23,13,3543,110683,3.2,-3.99,-1.28,131,3.7,-1.02,-3.37
+2019,County,1113,Alabama:Russell,,Totals,Overall,44,29,6526,98899,6.6,0.4,0.57,400,6.13,-1.94,-0.01
+2019,County,1115,Alabama:St. Clair,,Totals,Overall,114,62,36128,359049,10.06,1.33,-2.32,3891,10.77,2,-2.46
+2019,County,1117,Alabama:Shelby,,Totals,Overall,450,289,49869,769771,6.48,-3.06,-0.8,4127,8.28,-8.18,-1.75
+2019,County,1119,Alabama:Sumter,,Totals,Overall,9,9,2381,39342,6.05,0.83,-0.91,109,4.58,0.17,-1.45
+2019,County,1121,Alabama:Talladega,,Totals,Overall,125,78,25154,403191,6.24,-2.24,-0.62,887,3.53,-2.15,-0.04
+2019,County,1123,Alabama:Tallapoosa,,Totals,Overall,90,51,10364,299673,3.46,-1.85,-0.28,486,4.69,-0.98,0.33
+2019,County,1125,Alabama:Tuscaloosa,,Totals,Overall,699,471,78096,1160817,6.73,-1.02,-0.35,10402,13.32,0.13,-0.58
+2019,County,1127,Alabama:Walker,,Totals,Overall,149,95,39052,468976,8.33,-1.9,-0.23,2615,6.7,-1.68,-0.21
+2019,County,1129,Alabama:Washington,,Totals,Overall,11,7,1587,31023,5.12,-2.45,0.23,227,14.3,6.05,0.76
+2019,County,1131,Alabama:Wilcox,,Totals,Overall,8,4,340,25528,1.33,-2.85,-0.81,14,4.12,-2.23,-1.46
+2019,County,1133,Alabama:Winston,,Totals,Overall,31,20,10588,176208,6.01,-0.63,-0.28,713,6.73,-1.98,-0.5
+2019,County,2013,Alaska:Aleutians East,,Totals,Overall,2,1,,92,,,,,,,
+2019,County,2016,Alaska:Aleutians West,,Totals,Overall,10,8,59,1032,5.72,-0.5,0.12,,,,
+2019,County,2020,Alaska:Anchorage,,Totals,Overall,1569,1048,42393,895674,4.73,-1.48,-0.69,6951,16.4,-3.92,-1.38
+2019,County,2050,Alaska:Bethel,,Totals,Overall,44,25,475,13859,3.43,-2.95,-0.26,64,13.47,6.13,-1.8
+2019,County,2060,Alaska:Bristol Bay,,Totals,Overall,3,1,,116,,,,,,,
+2019,County,2068,Alaska:Denali,,Totals,Overall,,,,,,,,,,,
+2019,County,2070,Alaska:Dillingham,,Totals,Overall,13,10,183,4026,4.55,-1.87,-2.67,,,,
+2019,County,2090,Alaska:Fairbanks North Star,,Totals,Overall,339,222,7362,167970,4.38,-3.35,-0.57,733,9.96,-6.34,-1.42
+2019,County,2100,Alaska:Haines,,Totals,Overall,6,5,44,2602,1.69,-4.35,-1.95,,,,
+2019,County,2105,Alaska:Hoonah-Angoon,,Totals,Overall,3,3,119,1858,6.4,-6.64,0.68,,,,
+2019,County,2110,Alaska:Juneau,,Totals,Overall,134,90,2825,69644,4.06,-4.14,-2.39,385,13.63,-5.76,-3.11
+2019,County,2122,Alaska:Kenai Peninsula,,Totals,Overall,218,164,10156,157353,6.45,-3.26,-1.7,2175,21.42,-2.19,-3.02
+2019,County,2130,Alaska:Ketchikan Gateway,,Totals,Overall,67,50,2848,53342,5.34,-2.85,-0.5,464,16.29,-6.62,-1.85
+2019,County,2150,Alaska:Kodiak Island,,Totals,Overall,34,24,529,12767,4.14,-0.72,-0.7,66,12.48,-2.93,-3.71
+2019,County,2158,Alaska:Kusilvak,,Totals,Overall,4,4,51,1351,3.77,0.52,-1.03,,,,
+2019,County,2164,Alaska:Lake and Peninsula,,Totals,Overall,2,0,0,40,0,,0,0,,,
+2019,County,2170,Alaska:Matanuska-Susitna,,Totals,Overall,264,181,9811,196719,4.99,-1.5,-1.38,1525,15.54,-5.07,-6.31
+2019,County,2180,Alaska:Nome,,Totals,Overall,23,13,213,6742,3.16,-4.79,-1.97,,,,
+2019,County,2185,Alaska:North Slope,,Totals,Overall,10,6,51,1022,4.99,-5.11,-0.59,,,,
+2019,County,2188,Alaska:Northwest Arctic,,Totals,Overall,19,17,260,4756,5.47,-3.71,1.4,21,8.08,-12.3,
+2019,County,2195,Alaska:Petersburg,,Totals,Overall,7,6,549,8616,6.37,-0.52,0.18,139,25.32,2.44,-4.01
+2019,County,2198,Alaska:Prince of Wales-Hyder,,Totals,Overall,13,8,308,4314,7.14,-3.42,0.84,31,10.06,-9.47,1.31
+2019,County,2220,Alaska:Sitka,,Totals,Overall,41,32,1299,21442,6.06,-1.99,-0.02,315,24.25,0.66,-0.4
+2019,County,2230,Alaska:Skagway,,Totals,Overall,4,3,21,825,2.55,-3.29,-4.84,0,0,-36.67,0
+2019,County,2240,Alaska:Southeast Fairbanks,,Totals,Overall,7,7,532,6156,8.64,-4.01,0.08,68,12.78,-2.02,-1.66
+2019,County,2275,Alaska:Wrangell,,Totals,Overall,4,3,185,6002,3.08,-4.89,-1.64,29,15.68,-4.5,-5.09
+2019,County,2282,Alaska:Yakutat,,Totals,Overall,1,1,13,48,27.08,,27.08,0,0,,
+2019,County,2290,Alaska:Yukon-Koyukuk,,Totals,Overall,6,3,14,736,1.9,-2.63,-0.19,0,0,-4.72,
+2019,County,4001,Arizona:Apache,,Totals,Overall,219,153,6137,154403,3.97,-2.06,-0.19,459,7.48,-2.58,-0.29
+2019,County,4003,Arizona:Cochise,,Totals,Overall,302,204,22977,420236,5.47,-1.73,-0.43,3198,13.92,-2.51,-2.11
+2019,County,4005,Arizona:Coconino,,Totals,Overall,605,393,20194,368199,5.48,-2.19,-0.8,2222,11,-3.68,-2.64
+2019,County,4007,Arizona:Gila,,Totals,Overall,145,98,11295,170624,6.62,-2.77,-0.91,1962,17.37,-3.08,-1.17
+2019,County,4009,Arizona:Graham,,Totals,Overall,94,72,6182,108672,5.69,-3.13,-0.13,906,14.66,-4.96,-0.58
+2019,County,4011,Arizona:Greenlee,,Totals,Overall,16,13,170,17520,0.97,-2.12,-0.77,12,7.06,-1.72,-1.54
+2019,County,4012,Arizona:La Paz,,Totals,Overall,42,29,3847,55696,6.91,-2.71,-0.66,440,11.44,-4.31,-3.12
+2019,County,4013,Arizona:Maricopa,,Totals,Overall,17166,10951,831630,15861648,5.24,-1.84,-0.32,106949,12.86,-3.16,-1.37
+2019,County,4015,Arizona:Mohave,,Totals,Overall,685,482,77084,1067363,7.22,-1.65,-0.83,9982,12.95,-2.43,-2.09
+2019,County,4017,Arizona:Navajo,,Totals,Overall,343,237,18487,320924,5.76,-1.73,-0.55,2811,15.21,1.81,-1.79
+2019,County,4019,Arizona:Pima,,Totals,Overall,4410,2785,246906,4587217,5.38,-1.51,-0.24,40822,16.53,-1.27,-0.72
+2019,County,4021,Arizona:Pinal,,Totals,Overall,464,289,21928,652683,3.36,-2.61,-0.4,2426,11.06,-1.92,0.63
+2019,County,4023,Arizona:Santa Cruz,,Totals,Overall,62,37,2120,122695,1.73,-1.72,-0.32,105,4.95,-1.08,-1.21
+2019,County,4025,Arizona:Yavapai,,Totals,Overall,858,556,62910,1167131,5.39,-1.49,-0.25,6802,10.81,-4.26,-1.69
+2019,County,4027,Arizona:Yuma,,Totals,Overall,465,279,28088,618753,4.54,-1.4,0.22,5154,18.35,4.4,0.4
+2019,County,5001,Arkansas:Arkansas,,Totals,Overall,29,25,6598,174786,3.77,-1.31,-0.43,452,6.85,-1.95,0.27
+2019,County,5003,Arkansas:Ashley,,Totals,Overall,31,30,2059,76405,2.69,-1.3,-0.57,73,3.55,-0.53,-2.26
+2019,County,5005,Arkansas:Baxter,,Totals,Overall,177,142,31568,439581,7.18,-0.75,0.07,3200,10.14,-2.36,-1.49
+2019,County,5007,Arkansas:Benton,,Totals,Overall,664,480,62638,1020950,6.14,-0.65,0.21,6545,10.45,-0.68,0.59
+2019,County,5009,Arkansas:Boone,,Totals,Overall,110,92,13060,257807,5.07,-2.75,-0.84,861,6.59,-1.35,-0.99
+2019,County,5011,Arkansas:Bradley,,Totals,Overall,15,13,2676,72334,3.7,-1.14,-0.71,78,2.91,0.75,0.01
+2019,County,5013,Arkansas:Calhoun,,Totals,Overall,8,5,401,14935,2.68,-6.04,-2.07,,,,
+2019,County,5015,Arkansas:Carroll,,Totals,Overall,50,44,6018,119892,5.02,-2.63,-0.31,372,6.18,-5.73,-0.45
+2019,County,5017,Arkansas:Chicot,,Totals,Overall,31,26,6494,102089,6.36,-0.91,-0.76,156,2.4,-0.02,0.3
+2019,County,5019,Arkansas:Clark,,Totals,Overall,43,36,5964,118925,5.01,-1.47,-0.55,412,6.91,-1.39,-0.7
+2019,County,5021,Arkansas:Clay,,Totals,Overall,26,22,3904,103146,3.78,-1.15,-0.44,205,5.25,0.3,-1.01
+2019,County,5023,Arkansas:Cleburne,,Totals,Overall,42,36,6387,138189,4.62,-0.21,-0.47,394,6.17,-3.05,-1.9
+2019,County,5025,Arkansas:Cleveland,,Totals,Overall,4,4,202,10219,1.98,-0.39,0,0,0,-9.86,0
+2019,County,5027,Arkansas:Columbia,,Totals,Overall,58,42,5244,121999,4.3,-1.32,0.1,259,4.94,0.18,0.48
+2019,County,5029,Arkansas:Conway,,Totals,Overall,35,30,3586,88921,4.03,-1.97,-0.74,146,4.07,0.24,-0.79
+2019,County,5031,Arkansas:Craighead,,Totals,Overall,679,531,63749,1155935,5.51,-0.43,-0.21,4232,6.64,-2.49,-1.04
+2019,County,5033,Arkansas:Crawford,,Totals,Overall,60,47,18628,254398,7.32,-1.61,0.15,478,2.57,-5.18,-0.62
+2019,County,5035,Arkansas:Crittenden,,Totals,Overall,113,91,15018,221950,6.77,0.2,-0.55,141,0.94,-3.3,-0.68
+2019,County,5037,Arkansas:Cross,,Totals,Overall,32,23,4328,117114,3.7,-0.25,-0.12,233,5.38,-3.26,-0.66
+2019,County,5039,Arkansas:Dallas,,Totals,Overall,10,8,1290,40486,3.19,-1.31,-1.06,33,2.56,-0.56,-2.34
+2019,County,5041,Arkansas:Desha,,Totals,Overall,21,19,1338,67683,1.98,-1.98,-0.22,11,0.82,-1.99,-0.93
+2019,County,5043,Arkansas:Drew,,Totals,Overall,30,23,7284,175890,4.14,-0.62,-0.05,310,4.26,-4.76,-1.8
+2019,County,5045,Arkansas:Faulkner,,Totals,Overall,316,236,30566,540519,5.65,0.56,-0.83,2479,8.11,0.92,-1.91
+2019,County,5047,Arkansas:Franklin,,Totals,Overall,17,16,3545,119256,2.97,-2.5,-0.47,85,2.4,-2.56,-1.2
+2019,County,5049,Arkansas:Fulton,,Totals,Overall,25,24,5160,119662,4.31,-0.93,-0.32,133,2.58,-2.68,-1.58
+2019,County,5051,Arkansas:Garland,,Totals,Overall,446,343,54684,886870,6.17,-1.21,-0.45,4496,8.22,-0.35,-0.69
+2019,County,5053,Arkansas:Grant,,Totals,Overall,23,19,3516,57893,6.07,0.04,0.1,133,3.78,1.52,-0.01
+2019,County,5055,Arkansas:Greene,,Totals,Overall,110,86,18490,282119,6.55,-1.25,-0.08,1724,9.32,0.35,-0.12
+2019,County,5057,Arkansas:Hempstead,,Totals,Overall,24,20,4720,77610,6.08,-1.7,-0.48,168,3.56,-1.41,-0.8
+2019,County,5059,Arkansas:Hot Spring,,Totals,Overall,47,39,7880,148722,5.3,-0.8,-0.01,279,3.54,-0.69,0.66
+2019,County,5061,Arkansas:Howard,,Totals,Overall,17,15,4671,81995,5.7,-0.08,0.1,180,3.85,1.98,1.2
+2019,County,5063,Arkansas:Independence,,Totals,Overall,177,130,26324,313953,8.38,0.66,0.37,1083,4.11,-4.5,-1.4
+2019,County,5065,Arkansas:Izard,,Totals,Overall,25,22,4982,98451,5.06,-1.36,-0.44,265,5.32,-0.43,-0.4
+2019,County,5067,Arkansas:Jackson,,Totals,Overall,40,33,4104,94639,4.34,-1.96,-0.75,33,0.8,-3.32,-1.73
+2019,County,5069,Arkansas:Jefferson,,Totals,Overall,238,187,16763,469601,3.57,-0.44,0,460,2.74,0.32,0.23
+2019,County,5071,Arkansas:Johnson,,Totals,Overall,45,36,7374,153620,4.8,-1.56,-0.16,380,5.15,-0.68,-0.92
+2019,County,5073,Arkansas:Lafayette,,Totals,Overall,8,7,2623,41234,6.36,-0.39,-1.28,90,3.43,-2.84,-1.71
+2019,County,5075,Arkansas:Lawrence,,Totals,Overall,32,27,5987,99286,6.03,-1.62,0.21,469,7.83,-3.26,0.43
+2019,County,5077,Arkansas:Lee,,Totals,Overall,9,6,1425,26888,5.3,-0.5,-0.79,24,1.68,-4.51,0.05
+2019,County,5079,Arkansas:Lincoln,,Totals,Overall,10,9,1221,35535,3.44,-0.58,-0.43,13,1.06,,-0.19
+2019,County,5081,Arkansas:Little River,,Totals,Overall,18,15,3012,49336,6.11,-0.24,0.25,167,5.54,0.99,0.04
+2019,County,5083,Arkansas:Logan,,Totals,Overall,38,31,5047,128909,3.92,-0.75,-0.06,539,10.68,1.79,2.06
+2019,County,5085,Arkansas:Lonoke,,Totals,Overall,83,61,3564,146563,2.43,-2.04,-0.51,,,,
+2019,County,5087,Arkansas:Madison,,Totals,Overall,16,13,3390,48098,7.05,-0.91,0.25,217,6.4,-2.58,-1.12
+2019,County,5089,Arkansas:Marion,,Totals,Overall,12,10,1383,54527,2.54,-1.76,-0.8,14,1.01,-0.79,0.01
+2019,County,5091,Arkansas:Miller,,Totals,Overall,94,72,10046,138422,7.26,1.03,-1.42,451,4.49,1.89,-1.94
+2019,County,5093,Arkansas:Mississippi,,Totals,Overall,61,51,8373,153000,5.47,-2.57,-1,306,3.65,0.04,0.29
+2019,County,5095,Arkansas:Monroe,,Totals,Overall,17,15,475,37332,1.27,-1.25,-0.18,,,,
+2019,County,5097,Arkansas:Montgomery,,Totals,Overall,12,10,4250,48982,8.68,0.65,0.24,260,6.12,-2.3,-0.18
+2019,County,5099,Arkansas:Nevada,,Totals,Overall,11,8,2458,56897,4.32,-1.73,-0.45,53,2.16,-4.42,-2.35
+2019,County,5101,Arkansas:Newton,,Totals,Overall,8,5,107,8997,1.19,-7.2,-4.71,0,0,-5.31,-6.7
+2019,County,5103,Arkansas:Ouachita,,Totals,Overall,44,36,7710,141999,5.43,-2.04,-0.47,340,4.41,-5.61,0.25
+2019,County,5105,Arkansas:Perry,,Totals,Overall,5,5,597,14442,4.13,-3,-1.16,14,2.35,-1.25,0.15
+2019,County,5107,Arkansas:Phillips,,Totals,Overall,38,31,6493,135857,4.78,-1.8,-0.8,220,3.39,1.23,0.7
+2019,County,5109,Arkansas:Pike,,Totals,Overall,16,12,3530,60397,5.84,-1.5,-0.88,120,3.4,-1.02,-1.33
+2019,County,5111,Arkansas:Poinsett,,Totals,Overall,22,18,7619,147806,5.15,-1.77,-0.49,239,3.14,-4.4,-1.91
+2019,County,5113,Arkansas:Polk,,Totals,Overall,46,37,4034,104938,3.84,-1.25,-0.34,198,4.91,-1.01,0.67
+2019,County,5115,Arkansas:Pope,,Totals,Overall,156,118,13501,291898,4.63,-0.89,0.73,903,6.69,-1.71,1.81
+2019,County,5117,Arkansas:Prairie,,Totals,Overall,5,5,477,13838,3.45,0.06,-0.06,45,9.43,,1.25
+2019,County,5119,Arkansas:Pulaski,,Totals,Overall,2792,1937,213561,3244451,6.58,-1.27,-0.18,20494,9.6,-3.45,-1.65
+2019,County,5121,Arkansas:Randolph,,Totals,Overall,41,35,4001,103421,3.87,-1.51,-0.69,205,5.12,-4.33,-2.87
+2019,County,5123,Arkansas:St. Francis,,Totals,Overall,34,26,4225,99707,4.24,-1.57,-0.25,160,3.79,-3.12,-0.97
+2019,County,5125,Arkansas:Saline,,Totals,Overall,181,131,18308,382168,4.79,-0.8,-0.59,439,2.4,-3.14,-0.87
+2019,County,5127,Arkansas:Scott,,Totals,Overall,6,6,2153,32992,6.53,1.32,0.46,153,7.11,-1.67,0.19
+2019,County,5129,Arkansas:Searcy,,Totals,Overall,15,13,1909,48045,3.97,-1.85,-0.19,40,2.1,-2.87,-0.98
+2019,County,5131,Arkansas:Sebastian,,Totals,Overall,618,468,56189,1170528,4.8,-1.62,-0.48,4559,8.11,0.79,1.39
+2019,County,5133,Arkansas:Sevier,,Totals,Overall,32,25,3595,74891,4.8,-1.97,-0.61,,,,
+2019,County,5135,Arkansas:Sharp,,Totals,Overall,34,30,4695,133545,3.52,-2.5,-0.35,267,5.69,-1.18,-0.63
+2019,County,5137,Arkansas:Stone,,Totals,Overall,24,22,5195,95167,5.46,-0.86,-0.79,350,6.74,-3.02,-0.43
+2019,County,5139,Arkansas:Union,,Totals,Overall,125,93,17535,322124,5.44,-0.47,0.12,981,5.59,-0.5,-1.11
+2019,County,5141,Arkansas:Van Buren,,Totals,Overall,30,27,3285,92076,3.57,-0.96,-0.74,104,3.17,-3.42,-1.99
+2019,County,5143,Arkansas:Washington,,Totals,Overall,869,614,82562,1094158,7.55,-1.38,-1.18,12248,14.83,-1.88,-3.27
+2019,County,5145,Arkansas:White,,Totals,Overall,269,209,16938,524982,3.23,-1.31,-0.29,788,4.65,-2.26,0.41
+2019,County,5147,Arkansas:Woodruff,,Totals,Overall,9,7,987,36174,2.73,-1.78,0,50,5.07,-0.92,-1.87
