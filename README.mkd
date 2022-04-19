@@ -1,0 +1,4 @@
+# USA Opioid Epidemic Data Exploration
+Jacob Mitchell, Joe Blankenship
+
+Objective: Create Data Science Models to Explore which features may have a correlation with Opioid Overdose. 
