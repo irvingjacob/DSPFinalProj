@@ -1,5 +1,6 @@
 # Attacking the US Opioid Epidemic using Data Science
 ## Jacob Mitchell and Joseph Blankenship
+Objective: Create Data Science Models to Explore which features may have a correlation with Opioid Overdose.
 This project contains an analysis of data collected, cleaned, and modeled to see if we can find certain predictors of opioid related deaths in the United States. The files found in this directory are as follows:
 1. Final Project - An introduction to the problem and visualizations on the data we have
 2. Data Cleaning - A file that collects and cleans data with sources provided
